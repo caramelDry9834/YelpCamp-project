@@ -1,3 +1,0 @@
-# YelpCamp-project
-
-Hello
